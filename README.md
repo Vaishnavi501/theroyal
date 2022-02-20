@@ -6,7 +6,8 @@ This is a web based application developed for a restaurant named THE ROYAL.
 
 
 **Project Link** - https://theroyal.azurewebsites.net
-
+  
+**Demo Video** - https://youtu.be/efMEMhUwz0I
 
 ## Features and Functionalities 😃
 
